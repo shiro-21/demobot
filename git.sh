@@ -1,2 +1,2 @@
-echo "hi"
-echo "how are you all doing in git?"
+echo "Hello git...!"
+echo "how are you doing?"
